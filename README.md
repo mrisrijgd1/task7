@@ -24,7 +24,7 @@ sticker("/Users/kkalyan/Downloads/tree.jpg", package="acnr", p_size=12, s_x=1, s
 - Mridul
 
 # Logo
-![Photo]()
+![Photo](https://github.com/mrisrijgd1/task7/blob/master/logo.jpg)
         
         
    
